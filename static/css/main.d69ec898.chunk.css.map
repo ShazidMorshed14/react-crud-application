@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/AppStyle.css"],"names":[],"mappings":"AAAA,aACE,gBACF,CAEA,UACE,gBACF","file":"main.d69ec898.chunk.css","sourcesContent":[".button-item {\r\n  margin-left: auto;\r\n}\r\n\r\n#edit-btn {\r\n  margin-right: 5px;\r\n}\r\n"]}
